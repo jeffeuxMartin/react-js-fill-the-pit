@@ -1,0 +1,15 @@
+{
+  "name": "react-js-fill-the-pit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jeffeuxMartin/react-js-fill-the-pit",
+  "author": "jeffeuxMartin <jeffeuxmlta2020@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^5.3.4"
+  },
+  "scripts": {
+    "start": "reveal-md concept1.md",
+    "helpj": "reveal-md -h"
+  }
+}

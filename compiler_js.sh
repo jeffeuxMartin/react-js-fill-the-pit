@@ -1,0 +1,1 @@
+./node_modules/.bin/reveal-md "$1" --static concept1

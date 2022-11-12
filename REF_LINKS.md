@@ -1,0 +1,4 @@
+1. [reveal js md to html github pages - Google 搜尋](https://www.google.com/search?q=reveal+js+md+to+html+github+pages&sxsrf=ALiCzsZ9q6OAxh2iad1cK0an_ul1LtnQLA%3A1668255391487&ei=n45vY9K1Hc2joASVgoeIDA&ved=0ahUKEwiSgYTQz6j7AhXNEYgKHRXBAcEQ4dUDCA8&uact=5&oq=reveal+js+md+to+html+github+pages&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQ6CggAEEcQ1gQQsAM6BQghEKABOgcIIRCgARAKSgQIQRgASgQIRhgAULkBWJMRYIMVaAFwAXgAgAFxiAH7CJIBBDEwLjOYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp)
+1. [webpro/reveal-md: reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file](https://github.com/webpro/reveal-md)
+1. [reveal-md · GitHub Topics](https://github.com/topics/reveal-md)
+1. [Reveal.js presentation Markdown Pandoc GitHub Pages](https://gist.github.com/jonashackt/85f9df62986db4e70396e3c494e26b76)

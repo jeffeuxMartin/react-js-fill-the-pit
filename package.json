@@ -6,10 +6,14 @@
   "author": "jeffeuxMartin <jeffeuxmlta2020@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^5.3.4"
+    "reveal-md": "^5.3.4",
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "start": "reveal-md concept1.md",
     "helpj": "reveal-md -h"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
   }
 }

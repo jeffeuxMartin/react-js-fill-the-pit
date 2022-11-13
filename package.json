@@ -11,9 +11,11 @@
   },
   "scripts": {
     "start": "reveal-md concept1.md",
-    "helpj": "reveal-md -h"
+    "helpj": "reveal-md -h",
+    "compile": "marp $(find slides -name '*.md' -type f)"
   },
   "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0",
     "webpack-cli": "^4.10.0"
   }
 }

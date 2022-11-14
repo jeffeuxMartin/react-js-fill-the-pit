@@ -2,5 +2,6 @@
 marp: false
 ---
 
-* [./contents/concepts/sec1.md](./contents/concepts/sec1.html)
-* [./contents/concepts/state.md](./contents/concepts/state.html)
+
+## [Concepts](contents/concepts/)
+* [State](contents/concepts/state.md)

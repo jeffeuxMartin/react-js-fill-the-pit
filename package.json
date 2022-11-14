@@ -10,10 +10,10 @@
     "webpack": "^5.75.0"
   },
   "scripts": {
+    "Jeff_publish": "rm -rf docs; marp -I slides -o docs; git add -A; git commit -m '🪄'; git push; cp slides/index.md docs",
     "compile": "function wrapper () { marp $(find $1 -name '*.md' -type f); }; wrapper",
     "newcompile": "function wrapper () { marp -I $1 -o $2; }; wrapper",
-    "marp": "marp -I slides -o docs",
-    "Jeff_publish": "rm -rf docs; marp -I slides -o docs; git add -A; git commit -m 'new'; git push"
+    "marp": "marp -I slides -o docs"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^2.2.0",

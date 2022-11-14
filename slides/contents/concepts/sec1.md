@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 % Title
 % Name
 % yyyy/mm/dd

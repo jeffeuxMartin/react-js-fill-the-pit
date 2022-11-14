@@ -10,9 +10,9 @@
     "webpack": "^5.75.0"
   },
   "scripts": {
-    "start": "reveal-md concept1.md",
-    "helpj": "reveal-md -h",
-    "compile": "marp $(find slides -name '*.md' -type f)"
+    "compile": "function wrapper () { marp $(find $1 -name '*.md' -type f); }; wrapper",
+    "newcompile": "function wrapper () { marp -I $1 -o $2; }; wrapper",
+    "marp": "marp -I slides -o docs"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^2.2.0",

@@ -6,6 +6,12 @@
   "author": "jeffeuxMartin <jeffeuxmlta2020@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "jeffpush": "git add -A; git commit -m \":-)\"; git push"
+    "jeffpush": "git add -A; git commit -m \":-)\"; git push",
+    "install": "",
+    "marper": "PORT=9797 yarn run marp -s -I docs"
+  },
+  "dependencies": {
+    "@marp-team/marp-cli": "^2.2.0",
+    "@marp-team/marp-core": "^3.4.0"
   }
 }

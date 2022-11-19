@@ -20,6 +20,8 @@ _class:
 
 ---
 
-[example](docs/example)
-[#1](#1)
+<!-- [example](docs/example) -->
+<!-- [#1](#1) -->
 <!-- https://github.com/ralexander-phi/marp-to-pages -->
+
+[main_concepts](docs/main_concepts)

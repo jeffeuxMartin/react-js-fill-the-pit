@@ -1,8 +1,12 @@
 ---
-marp: false
+marp: true
 ---
 
 # React 重新學習
+
+---
+
+# 目錄
 
 ---
 
@@ -33,6 +37,7 @@ marp: false
 
 # 2. JavaScript 與 ES6 基本語法
 
+
 ---
 
 # 3. DOM 的基本概念
@@ -44,3 +49,4 @@ marp: false
 
 ---
 
+# ＥＮＤ

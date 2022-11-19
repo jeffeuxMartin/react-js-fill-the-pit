@@ -1,6 +1,19 @@
 ---
 marp: true
+theme: default
+# backgroundColor: '#2fff00d0'
+paginate: true
+# https://vocus.cc/article/60c9c4c2fd897800016ccf99
+# https://marpit.marp.app/markdown
+# https://marp.app/
 ---
+
+
+# State 
+
+---
+
+
 
 ```javascript
 function ColorChanger(props) {
